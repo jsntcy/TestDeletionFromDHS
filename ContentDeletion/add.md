@@ -1,1 +1,1 @@
-# add a new file.
+# Index test file for Open Publishing
