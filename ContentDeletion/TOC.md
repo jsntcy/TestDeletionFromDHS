@@ -1,2 +1,2 @@
 # [Index](index.md)
-# [Add](add_rename.md)
+# [Add](add.md)
