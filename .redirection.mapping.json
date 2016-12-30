@@ -11,6 +11,11 @@
             "redirect_document_id": false
         },
         {
+            "source_path": "abc/ghi1.md",
+            "redirect_url": "http://www.opq.com/uvw",
+            "redirect_document_id": false
+        },
+        {
             "source_path": "ac/def_cp.md",
             "redirect_url": "abc/xyz",
             "redirect_document_id": true
