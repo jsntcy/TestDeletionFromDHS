@@ -1,17 +1,17 @@
 {
     "redirections": [
         {
-            "source_path": "abc/def.md",
+            "source_path": "ContentDeletion/def.md",
             "redirect_url": "abc/xyz",
             "redirect_document_id": true
         },
         {
-            "source_path": "abc/ghi1.md",
+            "source_path": "ContentDeletion/ghi1.md",
             "redirect_url": "http://www.opq.com/uvw",
             "redirect_document_id": false
         },
         {
-            "source_path": "ac/def_cp.md",
+            "source_path": "ContentDeletion/def_cp.md",
             "redirect_url": "abc/xyz",
             "redirect_document_id": true
         }
