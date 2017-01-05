@@ -1,4 +1,4 @@
 --- 
 redirect_url: /opsdocs/specdocs/newrepo
-redirect_document_id: FALSE
+redirect_document_id: true
 ---
